@@ -3,8 +3,9 @@ This project provides interactive Tableau dashboards to analyze job data across 
 
 1. Relationship Between Country, Job Title, and Role
    
-Steps to Create in Tableau
-✅ Connect to Data Source (CSV, Excel, Database, etc.).
+Steps to Create in Tableau:
+
+✅ Connect to Data Source (CSV, Excel, Database, etc.)
 ✅ Drag Country to the Columns shelf.
 ✅ Drag Job Title and Role to the Rows shelf.
 ✅ Choose an appropriate chart type (e.g., Bar Chart or Treemap).
@@ -13,7 +14,9 @@ Steps to Create in Tableau
 
 
 2. Preference vs. Work Type (Conditional Display Based on Time and Filters)
+   
 Filters Applied:
+
 ✅ Work Type = ‘Intern’
 ✅ Latitude < 10
 ✅ Country Name does NOT start with A, B, C, or D
@@ -22,7 +25,9 @@ Filters Applied:
 
 
 3. Country-wise Salary Analysis (India & Germany) with Filters
+   
 Filters Applied:
+
 ✅ Country = 'India' OR 'Germany'
 ✅ Qualification = ‘B.Tech’
 ✅ Work Type = ‘Full-time’
@@ -35,7 +40,9 @@ Filters Applied:
 ✅Set Color Encoding:
   India = 🟠 Orange
   Germany = 🟢 Green
-Netlify (Deployment & Hosting)
 
+  
+Netlify (Deployment & Hosting)
 🌍 Live Demo: 🔗https://jobanalysisys.netlify.app/
+
 📊DATASET LINK: 🔗 https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
